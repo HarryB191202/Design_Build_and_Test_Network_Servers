@@ -101,6 +101,30 @@ Squid proxy and ClamAV are deployed to enhance security and control.
 
 ---
 
+## **Challenges**
+
+1. **Data Migration**:  
+   - Migrating files from NTFS to XFS while preserving permissions was complex.  
+   - Solution: Used NTFS-3G drivers and verified data integrity post-migration.  
+
+2. **Configuration Errors**:  
+   - Misconfigurations in case-sensitive files (e.g., `named.conf` vs. `Named.conf`) caused service failures.  
+   - Solution: Implemented strict naming conventions and thorough validation during setup.  
+
+3. **Performance Bottlenecks**:  
+   - Initial benchmarks revealed high memory usage during peak web traffic.  
+   - Solution: Upgraded server RAM and optimized Apache configurations for better resource management.  
+
+4. **Proxy Authentication Issues**:  
+   - Users reported intermittent Squid proxy authentication failures.  
+   - Solution: Reviewed and adjusted Squid configuration parameters and increased authentication timeout.  
+
+5. **Backup Automation**:  
+   - Early backup scripts failed to handle large data volumes efficiently.  
+   - Solution: Refined scripts to include compression and incremental backups for better performance.
+
+---
+
 ## **Repository Structure**
 
 ```plaintext
@@ -109,6 +133,8 @@ Squid proxy and ClamAV are deployed to enhance security and control.
 ├── Scripts/
 └── Documentation/
 ```
+
+---
 
 ## **Lessons Learned**
 
