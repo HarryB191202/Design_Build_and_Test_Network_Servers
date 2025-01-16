@@ -94,8 +94,9 @@ Pcoint has allocated a budget of \$5000.00 for this project and has already purc
 
 Below is an identified WHS induction badge that was received upon completion of the WHS induction:
 
-![](media/image1.png){width="5.947222222222222in"
-height="2.301388888888889in"}
+![Imgur](https://imgur.com/q4BaAuA.png)
+
+--- 
 
 ### WHS Hazards
 
@@ -285,7 +286,7 @@ The file tree structure is as follows:
 
 Below is the file structure as a logical topology:
 
-![](media/image2.png){width="3.46875in" height="2.4340277777777777in"}
+![Imgur](https://imgur.com/md6OjXz.png)
 
 Allocated permissions are based on given prerequisites:
 
@@ -653,8 +654,7 @@ Network interface 2 = NAT -- DHCP
 Here is a logical topology of the migrated
 Pcoint Server after implementation:
 
-![](media/image3.png){width="7.334722222222222in"
-height="5.034722222222222in"}
+![Imgur](https://imgur.com/75NxTpV.png)
 
 --- 
 
@@ -761,8 +761,7 @@ height="5.034722222222222in"}
 Below is the cost analysis for the project, the cost of the project is
 within the budget of \$5000.00:
 
-![](media/image4.png){width="6.263888888888889in"
-height="2.3680555555555554in"}
+![Imgur](https://imgur.com/tLMXCsw.png)
 
 ## Communication strategy
 
