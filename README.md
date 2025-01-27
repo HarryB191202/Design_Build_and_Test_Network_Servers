@@ -145,4 +145,4 @@ Squid proxy and ClamAV are deployed to enhance security and control.
    
 ## **Conclusion**
 
-This project demonstrates a structured approach to designing, configuring, and testing network servers. It highlights best practices for centralized services, robust security, and proactive monitoring. Use this repository as a guide to build efficient and secure server solutions tailored to your needs! Lets [dive in](https://github.com/HarryB191202/Design_Build_and_Test_Network_Servers/blob/Harry's-Special-Corner/Docs/T1-Server_Design_Report.md)) to the specifics for how this network server ticks! 
+This project demonstrates a structured approach to designing, configuring, and testing network servers. It highlights best practices for centralized services, robust security, and proactive monitoring. Use this repository as a guide to build efficient and secure server solutions tailored to your needs! Lets [dive in](https://github.com/HarryB191202/Design_Build_and_Test_Network_Servers/blob/Harry's-Special-Corner/Docs/T1-Server_Design_Report.md) to the specifics for how this network server ticks! 
