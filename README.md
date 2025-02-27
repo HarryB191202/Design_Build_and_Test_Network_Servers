@@ -21,7 +21,7 @@ Welcome to the **Design, Build, and Test Network Servers** project! This reposit
 ### **1. File Sharing**  
 Centralized file sharing is implemented using Samba, enabling fine-grained access control for different user groups.  
 - **Directory Structure**:  
-    ```plaintext
+    ```
     /srv/PcointShare
         ├── Office Admin
         ├── Accounts
@@ -31,7 +31,7 @@ Centralized file sharing is implemented using Samba, enabling fine-grained acces
   - ACL-based permissions for secure access.
   - Shared folders for departments with role-based access.
 - **Configuration Snippet**:
-    ```ini
+    ```
     [PcointShare]
     path = /srv/PcointShare
     read only = no
@@ -129,9 +129,25 @@ Squid proxy and ClamAV are deployed to enhance security and control.
 
 ```plaintext
 📂 Design_Build_and_Test_Network_Servers
-├── Configurations/
-├── Scripts/
-└── Documentation/
+|
+├──📂Docs
+|      |
+|      ├──T1-Server_Design_Report.md
+|      |
+|      ├──T2.1-Preconfiguration_of_server_attributes.md
+|      |
+|      ├──T2.2-Server_Configuration_Report.md
+|
+|
+├──📂Backup
+        ├──📂Server1
+            ├──Readme.txt
+            |
+            ├──rear-server1.iso
+            |
+            ├──rear-server1.txt
+            |
+            ├──Version.txt
 ```
 
 ---
