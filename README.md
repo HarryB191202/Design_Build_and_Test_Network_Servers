@@ -127,7 +127,7 @@ Squid proxy and ClamAV are deployed to enhance security and control.
 
 ## **Repository Structure**
 
-```plaintext
+```
 📂 Design_Build_and_Test_Network_Servers
 |
 ├──📂Docs
@@ -140,14 +140,18 @@ Squid proxy and ClamAV are deployed to enhance security and control.
 |
 |
 ├──📂Backup
-        ├──📂Server1
-            ├──Readme.txt
-            |
-            ├──rear-server1.iso
-            |
-            ├──rear-server1.txt
-            |
-            ├──Version.txt
+|       ├──📂Server1
+|           ├──Readme.txt
+|           |
+|           ├──rear-server1.iso
+|           |
+|           ├──rear-server1.txt
+|           |
+|           ├──Version.txt
+|
+|
+├──Readme.md
+
 ```
 
 ---
