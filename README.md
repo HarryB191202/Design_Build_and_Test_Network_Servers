@@ -140,12 +140,13 @@ Squid proxy and ClamAV are deployed to enhance security and control.
 |
 |
 ├──📂Backup
-|       ├──📂Server1
-|           ├──Readme.txt
-|           |
-|           ├──rear-server1.log
-|           |
-|           ├──Version.txt
+|      |
+|      ├──📂Server1
+|          ├──Readme.txt
+|          |
+|          ├──rear-server1.log
+|          |
+|          ├──Version.txt
 |
 |
 ├──Readme.md
